@@ -35,7 +35,7 @@ body{background:#eee}
 .mini-row{display:flex;align-items:center;gap:4px;line-height:1.2}
 .first-row{display:grid;grid-template-columns:1.6fr .35fr .65fr;align-items:center}
 .inn-label{text-align:center}
-.yellow{background:var(--pale);border-bottom:1px solid #333;min-height:17px;padding:2px 4px;display:inline-flex;align-items:center}
+.yellow{background:var(--pale);border-bottom:1px solid #333;min-height:17px;padding:2px 4px;display:inline-flex;align-items:center;font-weight: normal;}
 .inn{justify-content:center}
 .company{display:flex;margin-top:4px;width:100%;font-weight:bold}
 .small-note{text-align:center;font-size:10px;line-height:1.3}
